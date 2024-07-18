@@ -1,4 +1,4 @@
-# Hi there, I'm Shuggreal 👋
+# Hi there, I'm Shugg👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shuggreal&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/shuggreal?style=social)
