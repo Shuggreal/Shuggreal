@@ -36,10 +36,3 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shuggreal&theme=onedark)
 
-## 💻 Projects
-- [Project 1](https://github.com/shuggreal/project1) - Short description of project 1
-- [Project 2](https://github.com/shuggreal/project2) - Short description of project 2
-- [Project 3](https://github.com/shuggreal/project3) - Short description of project 3
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shuggreal&theme=react-dark)
