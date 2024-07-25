@@ -5,9 +5,9 @@
 ![Stars](https://img.shields.io/github/stars/shuggreal?style=social)
 
 ## 🚀 About Me
-- 👨‍💻 I’m currently working on [My Website](https://shuggreal.vercel.app/)
+- 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
-- ⚡ Fun fact: I work on many things at once
+- ⚡ Fun fact: Nah I'd Win 🥶
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
