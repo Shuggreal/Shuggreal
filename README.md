@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
-- ⚡ Fun fact: Nah I'd Win ![Nah I'd Win](https://www.youtube.com/watch?v=P8KNZjFlRjg)
+- ⚡ Fun fact: [Nah I'd Win](https://www.youtube.com/watch?v=P8KNZjFlRjg)
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
