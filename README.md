@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
-- ⚡ Fun fact: Throughout the gym and the locker room i alone am the honoured one 💪
+- ⚡ Fun fact: Nah I'd Adapt
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
