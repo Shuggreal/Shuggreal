@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
-- ⚡ Fun fact: Nah I'd Win 🥶
+- ⚡ Fun fact: Nah I'd Win ![Nah I'd Win](https://i.imgur.com/ElBZoSP.gif)
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
@@ -27,4 +27,3 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shuggreal&theme=onedark)
-
