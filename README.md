@@ -12,8 +12,6 @@
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
-[![Play Song](https://img.shields.io/badge/Play-Song-blue)](https://files.catbox.moe/bmtmez.mp3)
-
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
