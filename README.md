@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
-- ⚡ Fun fact: Nah I'd Adapt
+- ⚡ Fun fact: I make open source stuff for fun
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
