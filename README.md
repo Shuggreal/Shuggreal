@@ -8,7 +8,7 @@
 - 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
 - ⚡ Fun fact: Nah I'd Adapt
-- 🌟 I Make Open Source Stuff ![Open Source](https://img.shields.io/badge/Open%20Source-%2300bfff.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+- 🌟 I Make Open Source Stuff💻
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
