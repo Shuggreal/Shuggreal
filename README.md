@@ -3,13 +3,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shuggreal&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/shuggreal?style=social)
 ![Stars](https://img.shields.io/github/stars/shuggreal?style=social)
-![Open Source](https://img.shields.io/badge/Open%20Source-%2300bfff.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ## 🚀 About Me
 - 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
 - ⚡ Fun fact: Nah I'd Adapt
-- 🌟 I make open source stuff
+- 🌟 I Make Open Source Stuff ![Open Source](https://img.shields.io/badge/Open%20Source-%2300bfff.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 🌐 My website: [shuggreal.vercel.app](https://shuggreal.vercel.app/)
 
