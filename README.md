@@ -1,5 +1,7 @@
 # Hi there, I'm Shugg👋
 
+![Banner Image](https://i.imgur.com/1vd0Cfr.gif)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shuggreal&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/shuggreal?style=social)
 ![Stars](https://img.shields.io/github/stars/shuggreal?style=social)
