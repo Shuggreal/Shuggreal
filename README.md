@@ -1,9 +1,5 @@
 # Hi there, I'm Shugg👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=shuggreal&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/shuggreal?style=social)
-![Stars](https://img.shields.io/github/stars/shuggreal?style=social)
-
 ## 🚀 About Me
 - 👨‍💻 I’m currently working on Many things 😎
 - 🌱 I’m currently learning: Many Things 😎
